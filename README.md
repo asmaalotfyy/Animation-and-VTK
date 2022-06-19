@@ -1,18 +1,4 @@
-# CG Task3
-
-
-## Team Members:
-Asmaa Lotfy Awad Ali 
-
-Mohamed Sameh Mohamed Zaki
-
-Mohamed Khaled Salah ElRafie 
-
-Mariam Wael Mohamed Okasha
-
-Nermeen Mohamed Ahmed Allam
-
-
+# Computer Graphics final project
 ## Part1
 
 1. draw a floor and put the full body on top of it.
