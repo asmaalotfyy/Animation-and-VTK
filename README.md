@@ -1,4 +1,4 @@
-# Computer Graphics final project
+# Animation and VTK
 ## Part1
 
 1. draw a floor and put the full body on top of it.
